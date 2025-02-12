@@ -6,7 +6,7 @@
 
 ## MySQL & Power BI
 
--[Bank Data Churn Analysis](https://github.com/shivangitechie/Bank-Data-Churn-Analysis)
+- [Bank Data Churn Analysis](https://github.com/shivangitechie/Bank-Data-Churn-Analysis)
 
 ## Data Science
 
