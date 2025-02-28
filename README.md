@@ -1,8 +1,9 @@
 # My Projects
 
-## C/C++
+## C/C++/ Python
 
 - [Scientific Programming Series](https://github.com/shivangitechie/sciprog_23/tree/Shivangi_Dubey_Brightspace)
+- [Optical Character Recognition for Invoice Images](https://github.com/shivangitechie/Optical-Character-Recognition-for-Invoice-Images)
 
 ## MySQL & Power BI
 
